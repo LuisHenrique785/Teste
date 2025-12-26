@@ -7,7 +7,7 @@
   <style>
     :root {
       --bg-color: #0d0d0d;
-      --paper-color: #e0d8c3;
+      --paper-color: #e0d8c3; 
       --accent-color: #8b0000; /* Vermelho sangue seco */
     }
 
